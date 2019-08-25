@@ -1,0 +1,30 @@
+
+* {
+	text-align: center;
+}
+
+span {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+}
+
+.snakeBody {
+	background-color: Green;
+}
+
+.snakeHead {
+	background-color: SeaGreen;
+}
+
+.background {
+	background-color: Bisque;
+}
+
+.boundary {
+	background-color: Maroon;
+}
+
+.item {
+	background-color: OrangeRed;
+}
